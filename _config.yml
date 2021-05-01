@@ -121,3 +121,4 @@ exclude:
 collections:
   posts:
     permalink: '/posts/:title/'
+domain: 'https://stackbit-demo-d5222.netlify.app'

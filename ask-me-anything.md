@@ -6,7 +6,7 @@ That's a tough question but thankfully, our team is on it. Please bear with us w
 
 Hi it's a me Mario
 
-Where is L
+Where is Luigi
 
 Hi it's a
 

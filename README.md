@@ -5,6 +5,7 @@
 ### Fixed
 
 * Removed humans, they weren't doing fine with animals.
+* One stroke starts the draft mode
 
 ### Changed
 
